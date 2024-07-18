@@ -8,3 +8,4 @@ CHANGELOG DU SITE INTERNET WWW.TEAM-LFD.COM
 - Désactivation temporaire API YouTube (réactivation lors de la mise en place du CSS)
 - Création rapide de la section Vidéos
 - Création rapide de la section Séries
+- Liaison de la boutique Spreadshop/Spreadshirt
