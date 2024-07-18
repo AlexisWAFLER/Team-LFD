@@ -1,0 +1,193 @@
+/* Général */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+*,
+::before,
+::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: var(--texte);
+}
+
+:root {
+    --texte: #001C42;
+    --fond: #F1F8FF;
+    --fond2: #FDFEFF;
+}
+
+a {
+    text-decoration: none;
+}
+
+.titre {
+    color: var(--texte);
+    font-family: "Inter", Flex, sans-serif;
+}
+
+/* Header */
+
+/* Menu navigation */
+
+nav{
+    /* width: 100%; */
+    display: flex;
+    align-items: center;
+    padding: 15px 25px;
+    background: #f4f4f4;
+    box-shadow: inset 0px -1px 0px #c5c5c6;
+}
+
+.navlinks-container {
+    display: flex;
+    float: right;
+}
+
+.nav-icon{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.nav-icon span{
+    font-family: "Inter", Flex, sans-serif;
+    font-size: 20px;
+    margin-left: 10px;
+    font-weight: bold;
+    color: #333;
+}
+
+.nav-icon img{
+    width: 65px;
+}
+
+.hamburger{
+    display: none;
+}
+
+.navlinks-container a{
+    margin: 0 10px;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #414141;
+    display: inline-block;
+    position: relative;
+}
+
+.navlinks-container a::after{
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    width: 100%;
+    height: 1px;
+    transform: scale(0);
+    transform-origin: left;
+    background: #333;
+    transition: transform 0.5s ease-out;
+}
+
+.navlinks-container a:hover::after{
+    transform: scaleX(1);
+}
+
+.nav-authentication{
+    margin-left: auto;
+}
+
+.sign-btns button{
+    font-family: Roboto Flex, sans-serif;
+    font-size: 16px;
+    min-width: 90px;
+    padding: 10px 5px;
+    margin: 0 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+
+.sign-btns button:nth-child(1){
+    border: none;
+    background: #92c3eeb7;
+}
+
+.sign-btns button:nth-child(2){
+    border: none;
+    background: #0279e2b7;
+}
+
+.sign-user{
+    display: none;
+}
+
+section.icon-reseaux{
+    padding-top: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+/* Vidéos */
+
+/* Série */
+
+/* La team */
+.container-team-all {
+    width: 211px;
+    height: 182px;
+    border-radius: 20px;
+    background-color: var(--fond2);
+    box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.17);
+}
+
+.pseudo-all,
+.p-all {
+    padding-left: 10px;
+    background-color : transparent;
+}
+
+.img-all {
+    width: 211px;
+    height: 113px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.container-team {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.container-team-1 {
+    width: 1273px;
+    margin-top: 10px;
+}
+
+.container-team-2 {
+    width: 993px;
+    margin-top: 50px;
+}
+
+.team .titre {
+    padding: 0 17.4%;
+}
+
+/* Mods */
+
+/* Boutique */
+ .sprd-skip-nav {
+    display: none;
+}
+
+/* Footer */
+
+p {
+    color: rgb(253, 162, 3);
+}
