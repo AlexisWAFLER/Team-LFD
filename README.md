@@ -6,7 +6,8 @@ CHANGELOG DU SITE INTERNET WWW.TEAM-LFD.COM
 
 19 Juillet 2024 - Minor
 
-- Retrait bouton Accueil de la barre de navigation
+- Retrait bouton Accueil de la barre de navigation sur la page index.html
+- Retrait bouton Accueil de la barre de navigation sur la page boutique.html
 
 18 Juillet 2024 - U1 :
 
