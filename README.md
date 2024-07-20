@@ -1,4 +1,4 @@
-CHANGELOG DU SITE INTERNET WWW.TEAM-LFD.COM
+**>> CHANGELOG DU SITE INTERNET WWW.TEAM-LFD.COM <<**
 
 19 Juillet 2024 - U2
 
@@ -8,6 +8,7 @@ CHANGELOG DU SITE INTERNET WWW.TEAM-LFD.COM
 
 - Retrait bouton Accueil de la barre de navigation sur la page index.html
 - Retrait bouton Accueil de la barre de navigation sur la page boutique.html
+- Correction bug de couleur sur le texte d'accueil
 
 18 Juillet 2024 - U1 :
 
