@@ -2,7 +2,7 @@ CHANGELOG DU SITE INTERNET WWW.TEAM-LFD.COM
 
 19 Juillet 2024 - U2
 
-- Ajout logo + texte "Team LFD" cliquable pour redirection à la page index.html
+- Ajout logo + texte "Team LFD" cliquable pour redirection sur la page index.html
 
 19 Juillet 2024 - Minor
 
