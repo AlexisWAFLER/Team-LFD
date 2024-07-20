@@ -131,6 +131,18 @@ section.icon-reseaux{
     justify-content: space-around;
 }
 
+/* Accueil */
+
+.presentation {
+    margin-top: 17px;
+    margin-left: 25px;
+    margin-bottom: 52px;
+}
+
+.presentation .titre {
+    margin-bottom: 16px;
+}
+
 /* Vidéos */
 
 /* Série */
