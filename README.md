@@ -3,12 +3,13 @@
 19 Juillet 2024 - U2
 
 - Ajout logo + texte "Team LFD" cliquable pour redirection sur la page index.html
+- Mise en page de la section Accueil (titre + sous-titre descriptif du contenue de la team LFD)
 
 19 Juillet 2024 - Minor
 
 - Retrait bouton Accueil de la barre de navigation sur la page index.html
 - Retrait bouton Accueil de la barre de navigation sur la page boutique.html
-- Correction bug de couleur sur le texte d'accueil
+- Correction bug de couleur sur le sous-titre descriptif de la team LFD
 
 18 Juillet 2024 - U1 :
 
