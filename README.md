@@ -1,5 +1,13 @@
 CHANGELOG DU SITE INTERNET WWW.TEAM-LFD.COM
 
+19 Juillet 2024 - U2
+
+- Ajout logo + texte "Team LFD" cliquable pour redirection à la page index.html cc
+
+19 Juillet 2024 - Minor
+
+- Retrait bouton Accueil de la barre de navigation
+
 18 Juillet 2024 - U1 :
 
 - Création barre de navigation
