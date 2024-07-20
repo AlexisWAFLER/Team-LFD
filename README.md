@@ -12,6 +12,9 @@
 - Retrait bouton Accueil de la barre de navigation sur la page index.html
 - Retrait bouton Accueil de la barre de navigation sur la page boutique.html
 - Correction bug de couleur sur le sous-titre descriptif de la team LFD
+- Mise en place CSS titre section vidéo
+- Mise en place CSS titre section série
+- Mise en place CSS titre section twitch
 
 18 Juillet 2024 - U1 :
 
