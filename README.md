@@ -4,6 +4,8 @@
 
 - Ajout logo + texte "Team LFD" cliquable pour redirection sur la page index.html
 - Mise en page de la section Accueil (titre + sous-titre descriptif du contenue de la team LFD)
+- Création rapide de la section Twitch
+- Ajout d'un iframe vidéo de la chaîne Twitch de Xenon074 (Team LFD)
 
 19 Juillet 2024 - Minor
 
