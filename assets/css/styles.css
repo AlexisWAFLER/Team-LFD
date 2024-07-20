@@ -144,6 +144,10 @@ section.icon-reseaux{
 }
 
 /* Vidéos */
+.video .titre,
+.series-twitch .titre {
+    font-size: 30px;
+}
 
 /* Série */
 
