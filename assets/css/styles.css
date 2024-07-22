@@ -155,13 +155,15 @@ section.icon-reseaux{
     width: 343px;
     height: 99px;
     margin: 50px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
 }
 
 .serie-ytb img {
     width: auto;
     height: 99px;
-    border-top-left-radius: 10%;
-    border-bottom-left-radius: 10%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
 }
 
 /* La team */
