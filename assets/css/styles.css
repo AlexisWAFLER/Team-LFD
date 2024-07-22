@@ -150,6 +150,22 @@ section.icon-reseaux{
 }
 
 /* Série */
+.serie-ytb {
+    background-color: red;
+    width: 343px;
+    height: 99px;
+    margin: 50px;
+    padding-left: 20px;
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+}
+
+.serie-ytb img {
+    width: auto;
+    height: 99px;
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+}
 
 /* La team */
 .container-team-all {
