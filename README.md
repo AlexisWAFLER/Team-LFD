@@ -1,5 +1,9 @@
 **>> CHANGELOG DU SITE INTERNET WWW.TEAM-LFD.COM <<**
 
+22 Juillet 2024 - U3
+
+- Création des blocs des séries "Les 1000 vaches" et "Satisfactory" dans la séction Séries
+
 19 Juillet 2024 - U2
 
 - Ajout logo + texte "Team LFD" cliquable pour redirection sur la page index.html
