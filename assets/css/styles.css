@@ -175,6 +175,10 @@ section.icon-reseaux{
     box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.17);
 }
 
+.team {
+    padding-bottom: 20px;
+}
+
 .pseudo-all,
 .p-all {
     padding-left: 10px;
