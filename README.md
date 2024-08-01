@@ -1,5 +1,9 @@
 **>> CHANGELOG DU SITE INTERNET WWW.TEAM-LFD.COM <<**
 
+01 Août 2024 - Minor
+
+- Ajout d'éspace en dessous de la section "Team"
+
 22 Juillet 2024 - U3
 
 - Création des blocs des séries "Les 1000 vaches" et "Satisfactory" dans la séction Séries
