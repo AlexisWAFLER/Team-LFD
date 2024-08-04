@@ -1,10 +1,10 @@
-**>> CHANGELOG DU SITE INTERNET WWW.TEAM-LFD.COM <<**
+**> CHANGELOG DU SITE INTERNET WWW.TEAM-LFD.COM <**
 
 04 Août 2024 - U4
 
 - Début de la mise en page des sections "Vidéo", "Twitch" et "Série"
 
-01 Août 2024 - Minor
+01 Août 2024 -U3 Minor
 
 - Ajout d'éspace en dessous de la section "Team"
 
@@ -12,7 +12,7 @@
 
 - Création des blocs des séries "Les 1000 vaches" et "Satisfactory" dans la séction Séries
 
-22 Juillet 2024 - Minor
+22 Juillet 2024 - U2 Minor
 
 - Ajout début du CSS pour les blocs séries
 
@@ -23,7 +23,7 @@
 - Création rapide de la section Twitch
 - Ajout d'un iframe vidéo de la chaîne Twitch de Xenon074 (Team LFD) dans la section Twitch
 
-19 Juillet 2024 - Minor
+19 Juillet 2024 - U1 Minor
 
 - Retrait bouton Accueil de la barre de navigation sur la page index.html
 - Retrait bouton Accueil de la barre de navigation sur la page boutique.html
