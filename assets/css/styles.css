@@ -143,13 +143,20 @@ section.icon-reseaux{
     margin-bottom: 16px;
 }
 
-/* Vidéos */
+/* YouTube et Twitch */
+.series-twitch,
+.video {
+    background-color: orange;
+    display: flex;
+}
+
+    /* Vidéos */
 .video .titre,
 .series-twitch .titre {
     font-size: 30px;
 }
 
-/* Série */
+    /* Série */
 .serie-ytb {
     background-color: red;
     width: 343px;
@@ -211,7 +218,7 @@ section.icon-reseaux{
 }
 
 .team .titre {
-    padding: 0 17.4%;
+    padding: 0 8%;
 }
 
 /* Mods */
