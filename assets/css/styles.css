@@ -151,6 +151,17 @@ section.icon-reseaux{
     font-size: 30px;
 }
 
+.videoContainer a img {
+    width: 246px;
+    height: 123px;
+}
+
+.videoContainer a {
+    width: 246px;
+    height: 197px;
+    background-color: red;
+}
+
     /* Série */
 .serie-ytb {
     background-color: red;
