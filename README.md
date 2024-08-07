@@ -1,10 +1,14 @@
 **> CHANGELOG DU SITE INTERNET WWW.TEAM-LFD.COM <**
 
+07 Août 2024 - U4 Minor
+
+- Ajout de CSS pour la section "Vidéo"
+
 04 Août 2024 - U4
 
 - Début de la mise en page des sections "Vidéo", "Twitch" et "Série"
 
-01 Août 2024 -U3 Minor
+01 Août 2024 - U3 Minor
 
 - Ajout d'éspace en dessous de la section "Team"
 
