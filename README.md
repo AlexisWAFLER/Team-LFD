@@ -1,5 +1,10 @@
 **> CHANGELOG DU SITE INTERNET WWW.TEAM-LFD.COM <**
 
+19 Août 2024 - U5
+
+- Ajout de la section Footer
+- Création des 4 sections qui vont se trouver dans le footer
+
 07 Août 2024 - U4 Minor
 
 - Ajout de CSS pour la section "Vidéo"
