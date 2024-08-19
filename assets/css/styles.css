@@ -240,4 +240,14 @@ footer {
     width: auto;
     height: 237px;
     background-color: #001C42;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+footer a,
+footer h4{
+    color: white;
 }
