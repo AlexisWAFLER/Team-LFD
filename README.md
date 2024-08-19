@@ -4,6 +4,7 @@
 
 - Ajout de la section Footer
 - Création des 4 sections qui vont se trouver dans le footer
+- Début de mise en place du CSS pour la section footer
 
 07 Août 2024 - U4 Minor
 
