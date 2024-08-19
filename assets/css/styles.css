@@ -235,3 +235,9 @@ section.icon-reseaux{
 }
 
 /* Footer */
+
+footer {
+    width: auto;
+    height: 237px;
+    background-color: #001C42;
+}
