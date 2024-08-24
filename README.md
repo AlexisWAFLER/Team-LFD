@@ -1,5 +1,9 @@
 **> CHANGELOG DU SITE INTERNET WWW.TEAM-LFD.COM <**
 
+24 Août 2024 - U5 Minor
+
+- Ajout de l'image de la série des 1000 vaches dans la section Série
+
 19 Août 2024 - U5
 
 - Ajout de la section Footer
